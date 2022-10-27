@@ -1,2 +1,3 @@
-# CS50-Problems
+# Harvard-CS50 
 .
+soultion for cs50 problems
